@@ -1,0 +1,30 @@
+export const filterRow=[
+    {
+    title:1000,
+    value:1000
+    },
+    {
+    title:10,
+    value:10
+    },
+    {
+    title:20,
+    value:20
+    },
+    {
+    title:50,
+    value:50
+    },
+    {
+    title:100,
+    value:100
+    },
+    {
+    title:3,
+    value:3
+    },
+    {
+    title:5,
+    value:5
+    },
+]
